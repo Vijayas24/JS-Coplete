@@ -1,2 +1,2 @@
-# JS-Coplete
+# JS-Complete
 #Complete Javascript concepts
